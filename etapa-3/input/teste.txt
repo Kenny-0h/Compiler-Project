@@ -1,0 +1,40 @@
+int soma(int a, int b) {
+    int resultado;
+    resultado = a + b;
+    return resultado;
+}
+/* Isso é um comentário multilinha
+para testar algo */
+
+int main( ){
+    int x, w;
+    int y;
+    float z;
+
+    read(x);
+    read(y);
+    
+    x = x % y;
+
+    z = soma(x, y);
+
+    if (z > 10) {
+        print(z);
+    }
+    else {
+        z = -10;
+        print(z);
+    }
+    
+    while (z > 0) {
+        z = z - 10;
+    }
+
+    if (x > 0)
+        if (y > 0)
+            print(x);
+        else
+            print(y);
+    
+    return x;
+}

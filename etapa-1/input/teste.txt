@@ -1,0 +1,23 @@
+// Teste de tipos e variaveis
+int contador = -10;
+float preco = 45.90;
+preco;
+
+// Teste de operadores logicos e aritmeticos
+if (!verdade || 7) {
+        print i/2+8*7;
+        read i>=1<9!=0;
+}
+
+func()
+
+// TESTE DE ERRO LEXICO:
+float 3int2A;
+int ido_;
+
+float quest; // comentario normal 
+/* comentario com * no meio */ int x;
+/* varios ***** asterisc
+os */
+// Caractere invalido para testar o erro no "."
+@
