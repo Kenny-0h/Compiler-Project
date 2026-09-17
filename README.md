@@ -1,7 +1,3 @@
-Sim — nesse caso faz mais sentido o README **espelhar a estrutura real do repositório**, tendo cada etapa como uma unidade independente, inclusive com seus próprios exemplos e `Makefile`.
-
-Eu faria também uma distinção importante: a **Etapa 3** reúne tanto a análise semântica quanto a geração do código intermediário, já que essas duas partes fazem parte da mesma entrega.
-
 # Compilador para Linguagem Imperativa Simplificada
 
 Projeto acadêmico de desenvolvimento incremental de um compilador para uma linguagem imperativa simplificada, abrangendo as etapas de **análise léxica**, **análise sintática**, **análise semântica** e **geração de código intermediário**.
